@@ -1,5 +1,5 @@
 # kaggle
-my solutions for kaggle competition
+my solutions for kaggle competitions
 
 
 | Competition  |  My solution  | Kaggle link|

@@ -2,6 +2,7 @@
 my solutions for kaggle competition
 
 
-| Competition  |  My solution  |
+| Competition  |  My solution  | Kaggle link|
 | ------------------- | ------------------- |
-| titanic | [here](titanic/titanic-competition.ipynb)|
+| titanic | [solution](titanic/titanic-competition.ipynb)| [competition](https://www.kaggle.com/competitions/titanic)|
+| cleaned vs dirty | [solution](cleaned vs dirty/cleaned-vs-dirty.ipynb)| [competition](https://www.kaggle.com/competitions/platesv2)|

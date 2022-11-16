@@ -15,4 +15,6 @@ my solutions for kaggle competitions
 | Image segmentation | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/76d4bb0686714520bb0996c2b5d35303a3d44480/image%20segmentation/Deep_Learning_with_PyTorch_ImageSegmentation_ipynb_.ipynb)
 | Building my Deep Neural Network: Step by Step | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/main/NN%20step%20by%20step/NN%20step%20by%20step.ipynb)|
 | Edge Detector | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/76d4bb0686714520bb0996c2b5d35303a3d44480/Edge%20Detector/Edge%20Detector.ipynb) |
+| Face Detection | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/28c2718af27f1a544bee3183e9207e0333f8c377/Face%20Detection/Face%20Detection.ipynb) |
+| Blur the Face | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/28c2718af27f1a544bee3183e9207e0333f8c377/Blur%20the%20Face/Blur%20the%20Face.ipynb) |
 

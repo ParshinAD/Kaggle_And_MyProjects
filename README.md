@@ -19,4 +19,5 @@ my solutions for kaggle competitions
 | Edge Detector | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/76d4bb0686714520bb0996c2b5d35303a3d44480/Edge%20Detector/Edge%20Detector.ipynb) |
 | Face Detection | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/28c2718af27f1a544bee3183e9207e0333f8c377/Face%20Detection/Face%20Detection.ipynb) |
 | Blur the Face | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/28c2718af27f1a544bee3183e9207e0333f8c377/Blur%20the%20Face/Blur%20the%20Face.ipynb) |
+| Webcam object detection | [here](https://github.com/ParshinAD/Kaggle_And_MyProjects/blob/e26315c30091c91c507e6109e62f2fd6b4584629/webcam%20object%20detection/main.ipynb) |
 

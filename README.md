@@ -13,7 +13,8 @@ my solutions for kaggle competitions
 
 | description  |  notebook  |
 | ------------------- | ------------------- |
-| Image segmentation | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/76d4bb0686714520bb0996c2b5d35303a3d44480/image%20segmentation/Deep_Learning_with_PyTorch_ImageSegmentation_ipynb_.ipynb)
+| Image segmentation | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/76d4bb0686714520bb0996c2b5d35303a3d44480/image%20segmentation/Deep_Learning_with_PyTorch_ImageSegmentation_ipynb_.ipynb) |
+| Zombie Object Detection | [here](https://github.com/ParshinAD/Kaggle_And_MyProjects/blob/03f9b244878f0a75be58c10b777e0fc0703fda7e/Zombie%20Object%20Detection/Readme.md)
 | Building my Deep Neural Network: Step by Step | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/main/NN%20step%20by%20step/NN%20step%20by%20step.ipynb)|
 | Edge Detector | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/76d4bb0686714520bb0996c2b5d35303a3d44480/Edge%20Detector/Edge%20Detector.ipynb) |
 | Face Detection | [here](https://nbviewer.org/github/ParshinAD/Kaggle_And_MyProjects/blob/28c2718af27f1a544bee3183e9207e0333f8c377/Face%20Detection/Face%20Detection.ipynb) |
